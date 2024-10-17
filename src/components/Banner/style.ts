@@ -10,7 +10,8 @@ export const containerImg = styled.section`
     width: 100%;
     height: 45rem;
 
-    background-image: url('../img/banner.jpg');
+
+    background-image: url('../../img/banner.jpg');
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
