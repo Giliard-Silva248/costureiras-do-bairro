@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Giliard-Silva248/costureiras-do-bairro/static/css/main.ed3c73e5.css",
-    "main.js": "/Giliard-Silva248/costureiras-do-bairro/static/js/main.0a9259ab.js",
-    "index.html": "/Giliard-Silva248/costureiras-do-bairro/index.html",
-    "main.ed3c73e5.css.map": "/Giliard-Silva248/costureiras-do-bairro/static/css/main.ed3c73e5.css.map",
-    "main.0a9259ab.js.map": "/Giliard-Silva248/costureiras-do-bairro/static/js/main.0a9259ab.js.map"
+    "main.css": "/costureiras-do-bairro/static/css/main.ed3c73e5.css",
+    "main.js": "/costureiras-do-bairro/static/js/main.7626fc01.js",
+    "index.html": "/costureiras-do-bairro/index.html",
+    "main.ed3c73e5.css.map": "/costureiras-do-bairro/static/css/main.ed3c73e5.css.map",
+    "main.7626fc01.js.map": "/costureiras-do-bairro/static/js/main.7626fc01.js.map"
   },
   "entrypoints": [
     "static/css/main.ed3c73e5.css",
-    "static/js/main.0a9259ab.js"
+    "static/js/main.7626fc01.js"
   ]
 }
