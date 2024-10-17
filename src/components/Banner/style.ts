@@ -8,7 +8,7 @@ export const img = styled.img`
 `
 export const containerImg = styled.section`
     width: 100%;
-    height: 45rem; /* Ajuste a altura conforme necessário */
+    height: 45rem;
 
     background-image: url('../img/banner.jpg');
   background-attachment: fixed;

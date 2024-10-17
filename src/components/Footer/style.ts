@@ -9,7 +9,6 @@ export const footer = styled.footer`
     justify-content: center;
     align-items: center;
 
-    &{}
 `
 
 export const p = styled.p`

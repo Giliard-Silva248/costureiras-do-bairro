@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import {UserForm} from '../UserForm/UserForm'; // Supondo que o UserForm esteja neste caminho
-import * as S from './style'; // Supondo que o arquivo de estilo esteja neste caminho
+import {UserForm} from '../UserForm/UserForm'; 
+import * as S from './style'; 
 
 export const Header: React.FC = () => {
   const [showForm, setShowForm] = useState(false);
