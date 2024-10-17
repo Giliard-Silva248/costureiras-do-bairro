@@ -2,6 +2,7 @@
   "name": "costureiras-do-bairro",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Giliard-Silva248.https://github.com/Giliard-Silva248/costureiras-do-bairro",
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
     "@testing-library/jest-dom": "^5.17.0",
