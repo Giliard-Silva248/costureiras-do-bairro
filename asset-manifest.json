@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/costureiras-do-bairro/static/css/main.ed3c73e5.css",
-    "main.js": "/costureiras-do-bairro/static/js/main.04a664e9.js",
+    "main.js": "/costureiras-do-bairro/static/js/main.8de405ad.js",
     "index.html": "/costureiras-do-bairro/index.html",
     "main.ed3c73e5.css.map": "/costureiras-do-bairro/static/css/main.ed3c73e5.css.map",
-    "main.04a664e9.js.map": "/costureiras-do-bairro/static/js/main.04a664e9.js.map"
+    "main.8de405ad.js.map": "/costureiras-do-bairro/static/js/main.8de405ad.js.map"
   },
   "entrypoints": [
     "static/css/main.ed3c73e5.css",
-    "static/js/main.04a664e9.js"
+    "static/js/main.8de405ad.js"
   ]
 }
