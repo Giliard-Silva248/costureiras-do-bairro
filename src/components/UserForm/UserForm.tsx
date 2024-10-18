@@ -46,6 +46,7 @@ export const UserForm: React.FC<UserFormProps> = ({ onClose }) => {
 
   return (
     <S.form onSubmit={handleSubmit}>
+      <h3>CADASTRAR</h3>
       <input 
         type="text" 
         value={firstName} 

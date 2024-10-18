@@ -26,7 +26,7 @@ export const Header: React.FC = () => {
         {isMobile ? (
           <S.hamburger onClick={toggleForm}>&#9776;</S.hamburger>
         ) : (
-          <S.btn onClick={toggleForm}>Cadastra</S.btn>
+          <S.btn onClick={toggleForm}>Cadastrar</S.btn>
         )}
       </S.btnContainer>
       {showForm && <UserForm onClose={toggleForm} />}

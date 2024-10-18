@@ -16,6 +16,13 @@ export const form = styled.form`
     align-items: center;
     gap: 1rem;
 
+    h3{
+        font-family: "Ysabeau Office", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;   
+        color: #6F1D1B;
+    }
     input{
         width: 100%;
         border-radius: 5px;
